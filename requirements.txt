@@ -1,7 +1,5 @@
 # ==========================================
 # Food Vision - Dependencies
-# Versi mengikuti environment lokal (Python 3.13)
-# agar kompatibel & cepat install di Streamlit Cloud
 # ==========================================
 
 streamlit==1.40.0
