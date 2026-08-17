@@ -3,6 +3,11 @@
 # ==========================================
 
 streamlit
-requests
-pandas
 ultralytics
+opencv-python-headless
+numpy
+pillow
+groq
+python-dotenv
+matplotlib
+pandas
